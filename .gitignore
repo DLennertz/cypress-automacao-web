@@ -1,0 +1,23 @@
+# Dependências
+node_modules/
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+cypress/reports/
+
+# Cobertura / relatórios
+coverage/
+.nyc_output/
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
