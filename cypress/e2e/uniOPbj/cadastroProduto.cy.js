@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 describe("Checkout de Produto", () => {
-=======
-describe("Cadastro de Produto", () => {
->>>>>>> 59de7e1eed934cdd883f8585bff9b1af30bf5540
   beforeEach("Fazer login", () => {
     cy.visit("https://www.saucedemo.com");
 
